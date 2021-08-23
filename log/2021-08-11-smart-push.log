@@ -1,0 +1,66 @@
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 01:35:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 01:54:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 11:59:41"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:02:38"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:04:27"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:06:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:15:43"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:16:00"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:16:12"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:16:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:17:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:18:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:19:01"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:20:21"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:20:48"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:21:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:23:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:24:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:25:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:26:37"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:27:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:28:29"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:30:04"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:32:33"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:33:34"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:35:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:35:51"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:36:50"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:37:09"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 12:37:59"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 14:23:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 14:25:49"}
+{"message":"App - editPassword Service error\n: connection.quer is not a function","level":"error","timestamp":"2021-08-11 14:25:55"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 14:26:19"}
+{"message":"App - editPassword Service error\n: Unknown column 'password' in 'field list'","level":"error","timestamp":"2021-08-11 14:26:22"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 14:26:36"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 14:42:34"}
+{"message":"App - editBDay Service error\n: userIdx is not defined","level":"error","timestamp":"2021-08-11 14:43:07"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 14:43:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 14:58:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 14:59:42"}
+{"message":"App - editEmail Service error\n: userDao.editEmailByIdx is not a function","level":"error","timestamp":"2021-08-11 14:59:46"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 15:00:07"}
+{"message":"App - editEmail Service error\n: connection is not defined","level":"error","timestamp":"2021-08-11 15:00:10"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 15:02:30"}
+{"message":"App - editEmail Service error\n: connection is not defined","level":"error","timestamp":"2021-08-11 15:02:34"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 15:05:36"}
+{"message":"App - editEmail Service error\n: connection is not defined","level":"error","timestamp":"2021-08-11 15:05:39"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 15:10:57"}
+{"message":"App - editEmail Service error\n: connection is not defined","level":"error","timestamp":"2021-08-11 15:11:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 15:12:30"}
+{"message":"App - editEmail Service error\n: BIGINT UNSIGNED value is out of range in '(`rodinAirbnb`.`User`.`idx` - 5)'","level":"error","timestamp":"2021-08-11 15:12:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 15:12:56"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 15:34:27"}
+{"message":"App - editPhone Service error\n: userDao.editPhoneByIdx is not a function","level":"error","timestamp":"2021-08-11 15:34:53"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 15:35:17"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 15:52:06"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 15:53:31"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 16:07:32"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 17:43:54"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 17:45:18"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 17:45:42"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 17:46:34"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 17:46:51"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 17:47:19"}
+{"message":"undefined - API Server Start At Port 3000","level":"info","timestamp":"2021-08-11 17:47:30"}
