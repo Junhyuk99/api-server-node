@@ -1,5 +1,4 @@
 # Airbnb_test_Server_Rodin
-RC1기 라이징테스트 에어비앤비 서버 로딘
 
 ### API Sheet Link
 ##### https://docs.google.com/spreadsheets/d/1SBCD3GKbmzFwv6dSziOM3ncdXmh5ZD0agPQvF_AaCLY/edit?usp=sharing
